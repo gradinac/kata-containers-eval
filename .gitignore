@@ -1,3 +1,4 @@
 graalvm-ce-19.0.0/
 micronaut-native-image/
-kata-micronaut-native/fresh-graal
+kata-micronaut-native/image
+netty-native-demo/
